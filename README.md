@@ -1,9 +1,9 @@
 # Welcome to EmotionAnalyzer!
 
-Please read the instructions below alongside the document "ML2_Project_EmotionAnalyzer.pdf" to gain understanding of the complete scope of the project.
+Please read the instructions below alongside the document "ML2_Project_EmotionAnalyzer.pdf" to gain an understanding of the complete scope of the project.
 
 ## Instructions:
-- This project (Emotion_Analyzer.ipynb) is designed to run on Google Colab
+- This project (Emotion_Analyzer.ipynb) is designed to run on Google Colab. Click "open in colab" at the top of the notebook"
   
 - Recommended Runtime: T4-GPU
   
