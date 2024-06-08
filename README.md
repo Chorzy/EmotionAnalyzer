@@ -1,6 +1,6 @@
 # Welcome to EmotionAnalyzer!
 
-Please read the instructions below alongside the document "ML2_Project_EmotionAnalyzer.pdf" to gain an understanding of the project and the idea behind it.
+Please read the instructions below alongside the document "ML2_Project_EmotionAnalyzer.pdf" to gain understanding of the complete scope of the project.
 
 ## Instructions:
 - This project (Emotion_Analyzer.ipynb) is designed to run on Google Colab
