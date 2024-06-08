@@ -1,0 +1,45 @@
+Human Accuracy:
+
+human_1 = 0.381 #@param {type:"number"}
+human_2 = 0.402 #@param {type:"number"}
+human_3 = 0.430 #@param {type:"number"}
+human_4 = 0.527 #@param {type:"number"}
+human_5 = 0.455 #@param {type:"number"}
+human_6 = 0.380 #@param {type:"number"}
+human_7 = 0.447 #@param {type:"number"}
+human_8 = 0.335 #@param {type:"number"}
+human_9 = 0.376 #@param {type:"number"}
+human_10 = 0.388 #@param {type:"number"}
+human_11 = 0.484 #@param {type:"number"}
+human_12 = 0.445 #@param {type:"number"}
+human_13 = 0.471 #@param {type:"number"}
+human_14 = 0.375 #@param {type:"number"}
+human_15 = 0.380 #@param {type:"number"}
+human_16 = 0.323 #@param {type:"number"}
+human_17 = 0.197 #@param {type:"number"}
+human_18 = 0.505 #@param {type:"number"}
+human_19 = 0.294 #@param {type:"number"}
+human_20 = 0.299 #@param {type:"number"}
+
+Dog Accuracy:
+
+dog_1 = 0.165 #@param {type:"number"}
+dog_2 = 0.282 #@param {type:"number"}
+dog_3 = 0.274 #@param {type:"number"}
+dog_4 = 0.221 #@param {type:"number"}
+dog_5 = 0.219 #@param {type:"number"}
+dog_6 = 0.186 #@param {type:"number"}
+dog_7 = 0.269 #@param {type:"number"}
+dog_8 = 0.302 #@param {type:"number"}
+dog_9 = 0.241 #@param {type:"number"}
+dog_10 = 0.226 #@param {type:"number"}
+dog_11 = 0.262 #@param {type:"number"}
+dog_12 = 0.151 #@param {type:"number"}
+dog_13 = 0.167 #@param {type:"number"} 
+dog_14 = 0.172 #@param {type:"number"}
+dog_15 = 0.237 #@param {type:"number"}
+dog_16 = 0.269 #@param {type:"number"}
+dog_17 = 0.246 #@param {type:"number"}
+dog_18 = 0.170 #@param {type:"number"}
+dog_19 = 0.225 #@param {type:"number"}
+dog_20 = 0.252 #@param {type:"number"}
